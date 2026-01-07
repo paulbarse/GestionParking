@@ -1,0 +1,19 @@
+# Ignorer le dossier de compilation défini dans actions_parking.gpr
+obj/
+
+# Ignorer les exécutables générés (basé sur la ligne "Main")
+main
+main.exe
+menu
+menu.exe
+test_actions_parking
+test_actions_parking.exe
+
+# Fichiers intermédiaires et binaires standard Ada (sécurité supplémentaire)
+*.o
+*.ali
+*.bexch
+
+# Fichiers systèmes
+.DS_Store
+Thumbs.db
