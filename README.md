@@ -1,6 +1,6 @@
-# Gestion de Parking en Ada (SAE 1.01)
+# Gestion de Parking en Ada
 
-Ce projet est une application de gestion de parking développée en langage **Ada**. Il a été réalisé dans le cadre d'une Situation d'Apprentissage et d'Évaluation (SAE 1.01) de première année universitaire.
+Ce projet est une application de gestion de parking développée en langage **Ada**. Il a été réalisé dans le cadre d'une Situation d'Apprentissage et d'Évaluation de première année universitaire.
 
 Le programme permet de gérer les entrées et sorties de véhicules, de calculer des tarifs de stationnement et d'analyser l'occupation du parking via un menu interactif.
 
